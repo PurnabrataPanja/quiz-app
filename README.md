@@ -1,4 +1,4 @@
-# 🧠 Interactive Quiz App – Task 3
+# 🧠 Interactive Quiz App
 
 This project is part of my **Web Development Internship** with **ApexPlanet Software Pvt. Ltd.**, offered via the **AICTE Internship Portal**.
 
